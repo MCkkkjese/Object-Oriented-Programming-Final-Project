@@ -36,7 +36,7 @@
    ```bash
    javac ChatBotApp.java
 
-3. **java ChatBotApp**
+3. **啟動 java ChatBotApp**
 
 
 ---
